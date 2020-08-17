@@ -12,7 +12,7 @@ Citation: Salmon L. et al. 2013 JACS
 
 FARFAR_TAR_Ens_N20.pdb
 FARFAR Ensemble (N=20)
-Citation: Shi H. et al. 2018 BioRxiv
+Citation: Shi H. et al. 2020 BioRxiv
 
 ### A6-DNA
 This is the folder including all the A6-DNA Ensemble
