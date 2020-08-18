@@ -9,12 +9,12 @@ This repository contains all experimental validated ensemble from Al-Hashimi lab
 
 ##### Anton_TAR_Ens_N20.pdb
 ###### Selected by NMR RDC
-###### Anton Ensemble (N=20)
+###### Anton-MD-NMR Ensemble (N=20)
 ###### Citation: Salmon L. et al. 2013 JACS
 
 ##### FARFAR_TAR_Ens_N20.pdb
 ###### Selected by NMR RDC
-###### FARFAR Ensemble (N=20)
+###### FARFAR-NMR Ensemble (N=20)
 ###### Citation: Shi H. et al. 2020 BioRxiv
 
 ### A6-DNA
