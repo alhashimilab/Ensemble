@@ -1,4 +1,5 @@
-# Ensemble
+#
+Ensemble
 
 This repository contains all experimental validated ensemble from Al-Hashimi lab
 
@@ -48,5 +49,15 @@ This repository contains all experimental validated ensemble from Al-Hashimi lab
 ###### Amber MD Ensemble (N=10)
 ###### Citation: Sathyamoorthy B. et al. 2017 NAR
 
+### Elongation
+#### This is the folder including all the helices used for TAR in-silico elongation
+#### The Python Code for elongate TAR helix was put in the same "Elongation" folder
 
+##### tar_stem1_el_v3.pdb
+###### For elongate TAR Helix I
+###### Citation: Salmon L. et al. 2013 JACS
+
+##### tar_stem2_el_v2.pdb 
+###### For elongate TAR Helix II
+###### Citation: Salmon L. et al. 2013 JACS
 
