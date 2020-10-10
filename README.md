@@ -6,6 +6,7 @@ This repository contains all experimental validated ensemble from Al-Hashimi lab
 
 ### TAR
 #### This is the folder including all the HIV-1-TAR Ensembles
+#### The PALES predicted RDCs for the TAR ensembles were also supplied as a csv file
 
 ##### Anton_TAR_Ens_N20.pdb
 ###### Selected by NMR RDC
@@ -51,7 +52,7 @@ This repository contains all experimental validated ensemble from Al-Hashimi lab
 
 ### Elongation
 #### This is the folder including all the helices used for TAR in-silico elongation
-#### The Python Code for elongate TAR helix was put in the same "Elongation" folder
+#### The Python Code for elongate TAR helix was put in the same "Elongation" folder: elongate.py
 
 ##### tar_stem1_el_v3.pdb
 ###### For elongate TAR Helix I
