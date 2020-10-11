@@ -7,10 +7,10 @@ from supimp import *
 from copy import deepcopy
 
 # EI22
-print("EI22")
+print("Make EI22")
 
-inpdir = './E0'
-oupdir = './EI22'
+inpdir = './test/E0'
+oupdir = './test/EI22'
 ei22 = Mol("tar_stem1_el_v3.pdb")
 
 for idx, pdbf in enumerate(os.listdir(inpdir)):
@@ -28,10 +28,10 @@ for idx, pdbf in enumerate(os.listdir(inpdir)):
     newmol.write(os.path.join(oupdir,pdbf.replace("E0","EI22")))
 
 # EI3
-print("EI3")
+print("Make EI3")
 
-inpdir = './EI22'
-oupdir = './EI3'
+inpdir = './test/EI22'
+oupdir = './test/EI3'
 
 for idx, pdbf in enumerate(os.listdir(inpdir)):
     
@@ -46,10 +46,10 @@ for idx, pdbf in enumerate(os.listdir(inpdir)):
     newmol.write(os.path.join(oupdir,pdbf.replace("EI22","EI3")))
 
 # EII22
-print("EII22")
+print("Make EII22")
 
-inpdir = './E0'
-oupdir = './EII22'
+inpdir = './test/E0'
+oupdir = './test/EII22'
 
 for idx, pdbf in enumerate(os.listdir(inpdir)):
 
